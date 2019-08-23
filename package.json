@@ -23,7 +23,7 @@
     "webpack-merge": "^4.2.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --hot --open --config  webpack.dev.config.js",
+    "start": "webpack-dev-server --open --config  webpack.dev.config.js",
     "build": "webpack --config webpack.prod.config.js"
   },
   "dependencies": {
